@@ -3,8 +3,8 @@ This project is being used to practice the correct use of Github Flow and also t
 
 ## Buit With
 
--HTML
--CSS
+- HTML
+- CSS
 
 ## Live Demo
 
